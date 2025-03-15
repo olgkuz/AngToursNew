@@ -11,6 +11,7 @@ import { AsideComponent } from './aside/aside.component';
   templateUrl: './layout.component.html',
   styleUrl: './layout.component.scss'
 })
+
 export class LayoutComponent implements OnInit{ 
   constructor() {}
   ngOnInit(): void {
